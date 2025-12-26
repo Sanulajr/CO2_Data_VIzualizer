@@ -79,8 +79,3 @@ pip install pandas hvplot panel
 * **Panel**
 * **Jupyter Notebook**
 
----
-
-
-* Rewrite this README to better match **Data Analyst / BI roles**
-* Create a **short GitHub description** to sit under the repo title
